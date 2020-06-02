@@ -1,6 +1,6 @@
 import React from 'react';
 
-const AboutMe = () => {
+const Skills = () => {
     return (
     <h1>This begins the page about me.
         
@@ -8,4 +8,4 @@ const AboutMe = () => {
     )
 }
 
-export default AboutMe
+export default Skills
